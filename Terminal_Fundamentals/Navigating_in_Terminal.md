@@ -8,10 +8,10 @@
 
 2. **What command do we use to change directories?**
 
-    The “cd” command is used to change and get into directories
+    The `cd` command is used to change and get into directories
     
 3. **What is the difference between an absolute and relative path?**
 
-    _Absolute path_ initializes or starts from the root directory while
+    **_Absolute path_** initializes or starts from the root directory while
     
-    _Relative path_ starts from the from the current position
+    **_Relative path_** starts from the from the current position
