@@ -1,6 +1,6 @@
 ### Questions of Answers
 
-1. What is the difference between `/` and `~` ? What do we call each of these directories?**
+1. **What is the difference between `/` and `~` ? What do we call each of these directories?**
 
    `/` symbol represents the root directory and these is where all other directory is stored this is called a “Forward slash”.
 
