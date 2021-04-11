@@ -12,6 +12,14 @@
 10. When using `cp -r` what is the `-r` called? What does it do?
 11. Delete the original `questions` folder and the copy.
 
-
+ _The steps for the process are shown in the next page and the answer for question for Question 2b and 10 are listed after the process_
 
 ![Picture of the above Task](pics.png)
+
+2b. **Try renaming the file to `rename.txt` using the `mv` command. What does this tell you about the command?**
+
+_I noticed that using the mv command could rename a folder especially when in the same directory_
+
+10b. **When using `cp -r` what is the `-r` called? What does it do?**
+
+_cp command represent copy, when followed by -r (cp -r), where -r is a flag precisely called a “recursive flag”, it is used to copy an entire folder._
