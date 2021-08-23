@@ -1,4 +1,4 @@
-// Given the following nested object:
+// Given the following nested object::
 
 let nestedData = {
   innerData: {
